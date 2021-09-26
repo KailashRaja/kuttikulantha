@@ -22,7 +22,8 @@ hr{
   top: 20px;
 }
 .r2{
-float: right;
+position: relative;
+  right: 50px;
 }
 .p1{
   position: relative;
