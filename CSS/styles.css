@@ -1,0 +1,175 @@
+#title{
+  background-color: #FFADAD;
+}
+#child{
+  text-align:center;
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:5px;
+  width:5%;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+.nav-item{
+  padding: 0 10px;
+}
+.r1{
+  top: 20px;
+}
+.r2{
+  position: relative;
+  left: 1050px;
+  top: 20px;
+}
+.p1{
+  position: relative;
+    bottom: 30px;
+}
+.p2{
+  position: relative;
+  left: 1050px;
+  bottom: 30px;
+}
+.u1{
+  position: relative;
+  bottom:170px;
+  left: 50px;
+}
+.u2{
+  position:relative;
+  bottom: 170px;
+  left:320px;
+  }
+  
+  /*details*/
+  
+#detail{
+  text-align: center;
+}
+
+#details{
+  background-color: white;
+  font-family: 'Montserrat-Black';
+size: 4.5rem;
+padding: 7% 15%;
+}
+.kutti{
+  padding-top: 5%;
+}
+.s1{
+  position: relative;
+  right: 50px;
+  bottom: 230px;
+}
+.s2{
+  position: relative;
+  right: 95px;
+  bottom: 185px;
+}
+.s3{
+  right: 160px;
+  position: relative;
+  bottom: 75px;
+  left: -140px;
+}
+
+.w1{
+  float: right;
+margin-left: 20px;
+padding-top: 5%
+}
+
+/*testimonials*/
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172
+}
+
+.carousel-item{
+  padding: 4% 15%;
+}
+  
+  
+#love{
+  color: #fff;
+}
+
+.testiominal-image{
+  width: 30%;
+  margin: 10px;
+}
+
+.testimonial-image1{
+    width: 50%;
+}
+.testimonial-image2{
+    width: 30%;
+}
+
+#schools{
+
+  font-family: 'Montserrat-Black';
+size: 4.5rem;
+padding-bottom: 3%;
+
+}
+.school{
+  padding-top: 4%;
+  text-align: center;
+}
+.u{
+  float: right;
+  margin: 40px;
+}
+.life{
+  text-align: left;
+  padding: 7% 12%;
+  margin-left: 10px;
+}
+.life1{
+      font-size: 1.40rem;
+    }
+/*HAPPINESS*/
+.images{
+  text-align: center;
+  padding-top: 7%;
+}
+.k2{
+  border-style: thick blue;
+}
+.dizzy1{
+  position:relative;
+  right: 40px;
+  bottom: 290px;
+}
+.dizzy2{
+  position:relative;
+  right: 75px;
+  bottom: 230px;
+}
+.dizzy3{
+  position:relative;
+  right: 110px;
+  bottom: 195px;
+}
+.dizzy4{
+  position:relative;
+  right: 145px;
+  bottom: 105px;
+}
+.dizzy5{
+  position:relative;
+  right: 180px;
+  bottom: 70px;
+}
+.dizzy6{
+  position:relative;
+  right: 215px;
+  bottom: 40px;
+}
