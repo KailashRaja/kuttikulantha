@@ -22,28 +22,25 @@ hr{
   top: 20px;
 }
 .r2{
-  position: relative;
-  left: 1050px;
-  top: 20px;
+float: right;
 }
 .p1{
   position: relative;
     bottom: 30px;
 }
 .p2{
-  position: relative;
-  left: 1050px;
-  bottom: 30px;
+float: right;
 }
 .u1{
   position: relative;
   bottom:170px;
-  left: 50px;
+  left: 170px;
 }
 .u2{
+  float: right;
   position:relative;
   bottom: 170px;
-  left:320px;
+  left:-180px;
   }
   
   /*details*/
