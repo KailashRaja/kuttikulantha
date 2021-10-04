@@ -1,0 +1,118 @@
+#title{
+  padding: 4% 7%;
+  background-color: #F6F6F6
+}
+.angel{
+  font-size: 2.75rem;
+  letter-spacing: .2rem; 
+}
+.wings{
+  font-size:0.85rem;
+  padding:top: 0px;
+  line-height: 0;
+}
+.kutti-kulantha{
+  font-size: 3.75rem;
+  text-align: center;
+  letter-spacing: .2rem;
+  font-family: monospace;
+size: 4.5rem;
+line height: 1.5;
+
+}
+.own-world{
+  font-size: 1.15rem;
+  text-align: center;
+}
+
+/**DETAILS**/
+
+#Details{
+  padding: 6% 4%;
+
+}
+.detail{
+font-family: 'Alegreya SC', serif;
+size: 4.5rem;
+line height: 1.5;
+text-align: center;
+}
+.child{
+  font-size: 1.70rem;
+  line height: 1;
+  font-family: fangsong;
+}
+.padding{
+  padding-top: 5%
+}
+
+/**IMAGES**/
+
+.images{
+  background-color: #FFBCBC;
+  padding: 4% 0;
+  text-align: center;
+}
+.magic1{
+  padding-right: 3%;
+}
+.magic12{
+  padding:  0;
+}
+.magic3{
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.magic4{
+  padding-right: 3%;
+}
+.magic5{
+  padding: ;
+}
+/**SCHOOLS**/
+
+#school{
+  padding: 7% 15%;
+  background-image: linear-gradient(violet, 	
+#4B0082, blue, green, yellow, orange, red);
+}
+.schools{
+text-align: center;
+font-family: 'Alegreya SC', serif;  
+padding-bottom: 7%;
+}
+.life{
+font-family: 'Cormorant Garamond', serif;
+font-size: 1.65rem;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+}
+.family{
+font-family: 'Cormorant Garamond', serif;
+font-size: 1.65rem;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+}
+.famous{
+font-family: 'Cormorant Garamond', serif;
+font-size: 1.65rem;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+}
+.sparkle1{
+  padding-top: 7%;
+  padding-bottom: 7%;
+  margin-left: 400px;
+}
+.own-world1{
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+
+.space{
+  padding: 7% 15%;
+}
